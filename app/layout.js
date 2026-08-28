@@ -2,7 +2,7 @@ import './globals.css'
 
 export const metadata = {
   title: 'Legacy Creator',
-  description: 'Crie vídeos profissionais de vendas com IA para TikTok Shop, Reels e Shorts.'
+  description: 'Transforme fotos, vídeos e ideias em conteúdos profissionais com IA.'
 }
 
 export default function RootLayout({ children }) {
