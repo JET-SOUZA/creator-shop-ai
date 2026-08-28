@@ -1,4 +1,5 @@
 import './app-v2.css'
+import './v2.css'
 
 export const metadata = {
   title: 'Legacy Creator',
