@@ -1,6 +1,7 @@
 import './globals.css'
 import './studio.css'
 import './ai-v2.css'
+import './v2.css'
 
 export const metadata = {
   title: 'Legacy Creator',
