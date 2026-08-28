@@ -1,1 +1,1 @@
-export { default } from './LegacyCreatorClientV2'
+export { default } from './LegacyCreatorClient'
