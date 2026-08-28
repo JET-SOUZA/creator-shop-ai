@@ -1,4 +1,5 @@
 import './globals.css'
+import './studio.css'
 
 export const metadata = {
   title: 'Legacy Creator',
